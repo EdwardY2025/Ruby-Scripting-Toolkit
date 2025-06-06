@@ -4,7 +4,7 @@
 
 
 #!/usr/bin/env ruby
-#
+
 #Text searching tool used to locate files
 def Rgrep(filename, options, pattern)
   #Checks if the file exits
