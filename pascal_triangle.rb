@@ -1,7 +1,6 @@
 #Edward Yeboah
 #SBU ID: 114385084
 #netid: eyeboah
-#CSE/ISE 337 Homework 2
 
 #Makes a secret code from numbers by taking consecutive sums of an array sequence over and over
 def findEncryption(numbers)
