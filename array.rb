@@ -2,6 +2,9 @@
 #SBU ID: 114385084
 #netid: eyeboah
 
+#!/usr/bin/env ruby
+
+
 class Array
     #Overrides the arrayindex accessor method []
     # @param i Index position to access
