@@ -1,0 +1,1 @@
+# Placeholder for vehicle.rb (Problem 3)
