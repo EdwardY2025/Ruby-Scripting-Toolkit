@@ -2,6 +2,8 @@
 #SBU ID: 114385084
 #netid: eyeboah
 
+#!/usr/bin/env ruby
+
 #Makes a secret code from numbers by taking consecutive sums of an array sequence over and over
 def findEncryption(numbers)
   while numbers.length > 2
