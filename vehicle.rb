@@ -3,6 +3,9 @@
 #netid: eyeboah
 #CSE/ISE 337 Homework 2
 
+#!/usr/bin/env ruby
+
+
 #represents a generic vehicle with common attributes
 # tracks total # of vehicles created across all subclasses
 class Vehicle
